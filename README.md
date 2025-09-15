@@ -1,6 +1,13 @@
 # Sistem Kendali On/Off dan Kecepatan Kipas Otomatis Berbasis Suhu
 Proyek ini bertujuan untuk mengembangkan prototipe kipas otomatis yang mampu mengatur kecepatan dan status on/off berdasarkan suhu ruangan. Sistem ini mengintegrasikan teknologi mikrokontroler, sensor suhu, dan antarmuka pengguna grafis (GUI) untuk menciptakan perangkat yang efisien dan ramah pengguna.
 
+## Kelompok
+1. Andhika Pratama
+2. Faqihuddin Al Ghiffary
+3. Fauzi Ramdani
+4. Pramudya Aditama Sudrajat
+5. Ripan
+
 ## Fitur Utama
 1. Pengaturan Kecepatan Otomatis
 Kipas akan menyesuaikan kecepatan dalam 4 tingkat berdasarkan suhu:
