@@ -7,9 +7,23 @@
 ![Backend](https://img.shields.io/badge/Backend-Python-yellow)
 
 Proyek ini bertujuan untuk mengembangkan prototipe kipas otomatis yang mampu mengatur kecepatan dan status *on/off* berdasarkan suhu ruangan secara *real-time*. Sistem ini mengintegrasikan teknologi mikrokontroler, sensor suhu, dan antarmuka pengguna grafis (GUI) untuk menciptakan perangkat yang efisien, responsif, dan ramah pengguna.
+> Waktu Pengerjaan: November - Desember 2024
 
-<!-- Ganti link di bawah dengan link gambar banner atau alat fisik Anda -->
-![Banner Proyek](https://via.placeholder.com/800x300?text=Foto+Alat+Kipas+Otomatis)
+---
+
+## Hardware Kipas Otomatis Berbasis Suhu
+
+![Hardware Kipas Otomatis Berbasis Suhu](Documentation/Kipas-Otomatis-Berbasis-Suhu.png)
+
+## Antarmuka Pengguna (UI Layout)
+
+Berikut adalah tampilan antarmuka sistem saat kondisi perangkat keras mati (OFF) dan saat aktif (ON):
+
+<p align="center">
+  <img src="Documentation/UI-Kipas-Otomatis-Berbasis-Suhu-Off.jpg" width="48%" alt="UI Kipas Otomatis Saat OFF" />
+  
+  <img src="Documentation/UI-Kipas-Otomatis-Berbasis-Suhu-On.jpg" width="48%" alt="UI Kipas Otomatis Saat ON" />
+</p>
 
 ---
 
